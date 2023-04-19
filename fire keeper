@@ -1,0 +1,79 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="это тестовый сайт">
+    <meta name="keywords" content="сайт, тест, первый сайт">
+    <title>test</title>
+    
+</head>
+<body>
+    <img src="https://i.pinimg.com/originals/15/2d/83/152d83b1bb8aead63651969180b50958.png" width="150" alt="ангел">
+
+    <h1>Fire Keeper</h1>
+    <p>Я хранительница <em>огня</em> я охраняю <strong> храм огня</strong></p>
+
+    
+    <h3>Мои соц сети</h3>
+    <a href="https://darksouls3.wiki.fextralife.com/Fire+Keeper" target="_blank">информация о мне</a>
+
+    <br>
+
+    <h3>Мои хобби</h3>
+    <ol>
+        <li>сижу</li>
+        <li>стою</li>
+        <li>танцую</li>
+    </ol>
+
+    <h3>Опыт работы</h3>
+    <table width="500px">
+        <thead>
+            <tr>
+                <th>название</th>
+                <th>должность</th>
+                <th>год</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>Храм огня</th>
+                <th>Хранительница огня</th>
+                <th>Всю жизнь</th>
+            </tr>
+        </tbody>
+
+    </table>
+
+    <h3>Cвязаться со мной</h3>
+    
+    <form action="">
+        <div>
+            <label for="namr">  Ваше имя</label>
+            <input type="text" id="name" placeholder="Ваше имя">
+        </div>
+
+        <div>
+            <label for="email">  Ваш email</label>
+            <input type="email" id="email" placeholder="Ваш email">
+        </div>
+        <div>
+            <label for="message">  Ваше сообщение</label>
+            <br>
+            <textarea id="message" placeholder="ваше сообщение"></textarea>
+        </div>
+
+        <div>
+            
+            <button type="button" id="button">отправить</button>
+        </div>
+
+
+
+    </form>
+
+</body>
+</html>
